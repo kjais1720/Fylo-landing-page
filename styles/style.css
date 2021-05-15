@@ -31,7 +31,7 @@ p {
 header {
   background-color: #232b38;
   min-height: 100vh;
-  background-image: url(/fylo-dark-theme-landing-page-master/images/bg-curvy-desktop.svg);
+  background-image: url(../images/bg-curvy-desktop.svg);
   background-position: 0% 105%;
   background-repeat: no-repeat;
   position: relative;
@@ -177,7 +177,7 @@ header .header-cta:hover a::after {
 @media only screen and (max-width: 667px) {
   header {
     padding: 50px 2vw;
-    background-image: url(/fylo-dark-theme-landing-page-master/images/bg-curvy-mobile.svg);
+    background-image: url(../images/bg-curvy-mobile.svg);
     background-size: 100%;
   }
   header .header-content {
@@ -484,7 +484,7 @@ header .header-cta:hover a::after {
       -ms-flex-align: center;
           align-items: center;
   padding: 10vw 10vw 37vw;
-  background: url(/fylo-dark-theme-landing-page-master/images/bg-quotes.png);
+  background: url(../images/bg-quotes.png);
   background-repeat: no-repeat;
   background-position: 13vw 8vw;
 }
